@@ -1,0 +1,204 @@
+[
+    {
+        "product_id": "ELEC001",
+        "name": "Samsung Galaxy S21",
+        "category": "Electronics",
+        "price": 79999,
+        "stock": 150,
+        "specs": {
+            "ram": "8GB",
+            "storage": "128GB"
+        },
+        "reviews": [
+            {
+                "user": "U001",
+                "rating": 5,
+                "comment": "Great phone",
+                "date": "2024-01-15"
+            },
+            {
+                "user": "U002",
+                "rating": 4,
+                "comment": "Good camera",
+                "date": "2024-01-20"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC002",
+        "name": "Apple iPhone 14",
+        "category": "Electronics",
+        "price": 89999,
+        "stock": 80,
+        "specs": {
+            "ram": "6GB",
+            "storage": "128GB"
+        },
+        "reviews": [
+            {
+                "user": "U003",
+                "rating": 5,
+                "comment": "Smooth performance",
+                "date": "2024-02-02"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC003",
+        "name": "Dell Inspiron Laptop",
+        "category": "Electronics",
+        "price": 65000,
+        "stock": 40,
+        "specs": {
+            "ram": "16GB",
+            "storage": "512GB SSD"
+        },
+        "reviews": [
+            {
+                "user": "U004",
+                "rating": 4,
+                "comment": "Value for money",
+                "date": "2024-01-25"
+            },
+            {
+                "user": "U005",
+                "rating": 3,
+                "comment": "Battery could be better",
+                "date": "2024-02-10"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC004",
+        "name": "Sony WH-1000XM4 Headphones",
+        "category": "Electronics",
+        "price": 24999,
+        "stock": 60,
+        "specs": {
+            "type": "Over-ear",
+            "noise_cancelling": true
+        },
+        "reviews": [
+            {
+                "user": "U006",
+                "rating": 5,
+                "comment": "Amazing sound",
+                "date": "2024-03-01"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC005",
+        "name": "Mi Smart LED TV 43\"",
+        "category": "Electronics",
+        "price": 29999,
+        "stock": 30,
+        "specs": {
+            "size": "43 inch",
+            "resolution": "4K"
+        },
+        "reviews": [
+            {
+                "user": "U007",
+                "rating": 4,
+                "comment": "Good display",
+                "date": "2024-03-05"
+            }
+        ]
+    },
+    {
+        "product_id": "SHOE001",
+        "name": "Nike Running Shoes",
+        "category": "Footwear",
+        "price": 4999,
+        "stock": 120,
+        "specs": {
+            "size_range": "6-11",
+            "color": "Black"
+        },
+        "reviews": [
+            {
+                "user": "U008",
+                "rating": 5,
+                "comment": "Very comfortable",
+                "date": "2024-01-18"
+            }
+        ]
+    },
+    {
+        "product_id": "SHOE002",
+        "name": "Adidas Sports Shoes",
+        "category": "Footwear",
+        "price": 4499,
+        "stock": 90,
+        "specs": {
+            "size_range": "7-12",
+            "color": "Blue"
+        },
+        "reviews": [
+            {
+                "user": "U009",
+                "rating": 4,
+                "comment": "Good grip",
+                "date": "2024-02-01"
+            }
+        ]
+    },
+    {
+        "product_id": "SHOE003",
+        "name": "Puma Casual Sneakers",
+        "category": "Footwear",
+        "price": 3999,
+        "stock": 70,
+        "specs": {
+            "size_range": "5-10",
+            "color": "White"
+        },
+        "reviews": [
+            {
+                "user": "U010",
+                "rating": 3,
+                "comment": "Looks good",
+                "date": "2024-02-15"
+            }
+        ]
+    },
+    {
+        "product_id": "SHOE004",
+        "name": "Bata Formal Shoes",
+        "category": "Footwear",
+        "price": 2999,
+        "stock": 50,
+        "specs": {
+            "size_range": "6-10",
+            "color": "Brown"
+        },
+        "reviews": [
+            {
+                "user": "U011",
+                "rating": 4,
+                "comment": "Perfect for office",
+                "date": "2024-03-02"
+            }
+        ]
+    },
+    {
+        "product_id": "SHOE005",
+        "name": "Campus Walking Shoes",
+        "category": "Footwear",
+        "price": 2499,
+        "stock": 100,
+        "specs": {
+            "size_range": "5-11",
+            "color": "Grey"
+        },
+        "reviews": [
+            {
+                "user": "U012",
+                "rating": 5,
+                "comment": "Lightweight and comfy",
+                "date": "2024-03-10"
+            }
+        ]
+    }
+]
